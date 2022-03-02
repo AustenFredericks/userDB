@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "austen@haefelesoftware.com",
+      "email": "austen@haefelesoftware.com",
+      "password": "123456",
+      "firstName": "Austen",
+      "lastName": "Freds"
+    },
+    {
+      "id": "harley@haefelesoftware.com",
+      "email": "harley@haefelesoftware.com",
+      "password": "123456",
+      "firstName": "Harley",
+      "lastName": "Feurgs"
+    },
+    {
+      "id": "darian@haefelesoftware.com",
+      "email": "darian@haefelesoftware.com",
+      "password": "123456",
+      "firstName": "Darian",
+      "lastName": "Lens"
+    }
+  ]
+}
